@@ -1,2 +1,2 @@
-seajs2.github.com
+0hao.github.com
 =================
